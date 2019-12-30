@@ -251,6 +251,7 @@ float SRBTF(vector<process> procList) {
 	return (float)sum/ (float)procList.size();
 }
 
+//Shortest Next Burst time First
 float SNBTF(vector<process> procList) {
 	float avg;
 	int runTime = 0;
@@ -342,6 +343,7 @@ float SNBTF(vector<process> procList) {
 	return (float)sum / (float)procList.size();
 }
 
+//Shortest Total Burst time First
 float STBTF(vector<process> procList) {
 	float avg;
 	int runTime = 0;
