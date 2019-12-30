@@ -1,0 +1,21 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (TestingApp.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  TestingApp.cpp
+C:\Users\Nate\Source\Repos\TestingApp\TestingApp\TestingApp.cpp(88,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nate\Source\Repos\TestingApp\TestingApp\TestingApp.cpp(142,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nate\Source\Repos\TestingApp\TestingApp\TestingApp.cpp(153,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nate\Source\Repos\TestingApp\TestingApp\TestingApp.cpp(174,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nate\Source\Repos\TestingApp\TestingApp\TestingApp.cpp(195,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nate\Source\Repos\TestingApp\TestingApp\TestingApp.cpp(222,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nate\Source\Repos\TestingApp\TestingApp\TestingApp.cpp(163,8): warning C4101: 'avg': unreferenced local variable
+C:\Users\Nate\Source\Repos\TestingApp\TestingApp\TestingApp.cpp(265,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nate\Source\Repos\TestingApp\TestingApp\TestingApp.cpp(286,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nate\Source\Repos\TestingApp\TestingApp\TestingApp.cpp(313,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nate\Source\Repos\TestingApp\TestingApp\TestingApp.cpp(255,8): warning C4101: 'avg': unreferenced local variable
+C:\Users\Nate\Source\Repos\TestingApp\TestingApp\TestingApp.cpp(355,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nate\Source\Repos\TestingApp\TestingApp\TestingApp.cpp(376,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nate\Source\Repos\TestingApp\TestingApp\TestingApp.cpp(403,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nate\Source\Repos\TestingApp\TestingApp\TestingApp.cpp(346,8): warning C4101: 'avg': unreferenced local variable
+C:\Users\Nate\Source\Repos\TestingApp\TestingApp\TestingApp.cpp(451,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Nate\Source\Repos\TestingApp\TestingApp\TestingApp.cpp(472,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nate\Source\Repos\TestingApp\TestingApp\TestingApp.cpp(489,20): warning C4018: '<': signed/unsigned mismatch
+  TestingApp.vcxproj -> C:\Users\Nate\Source\Repos\TestingApp\Debug\TurnaroundTimeAVG.exe
